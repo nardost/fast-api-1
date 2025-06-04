@@ -1,5 +1,7 @@
 # FASTAPI
 
+[Tutorial](https://fastapi.tiangolo.com/learn/)
+
 ## INSTALLATION
 
 ```sh
